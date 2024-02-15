@@ -1,0 +1,48 @@
+---
+product-family:
+  title: Documentação do StorageGRID
+  lead: O NetApp StorageGRID é um pacote de storage de objetos definido por software
+    compatível com uma grande variedade de casos de uso em ambientes multicloud híbrida,
+    privada e pública. A StorageGRID oferece suporte nativo à API Amazon S3 e oferece
+    inovações líderes do setor, como gerenciamento automatizado do ciclo de vida,
+    para armazenar, proteger e preservar dados não estruturados de maneira econômica
+    por longos períodos.
+  summary: O NetApp StorageGRID é um pacote de storage de objetos definido por software
+    compatível com uma grande variedade de casos de uso em ambientes multicloud híbrida,
+    privada e pública. A StorageGRID oferece suporte nativo à API Amazon S3 e oferece
+    inovações líderes do setor, como gerenciamento automatizado do ciclo de vida,
+    para armazenar, proteger e preservar dados não estruturados de maneira econômica
+    por longos períodos.
+  sidebarlinks:
+  - title: Tudo
+    tags: all
+    class: active
+  - title: Comece agora
+    tags: get_started
+  - title: Configurar e usar software
+    tags: storagegrid
+  - title: Instalar e manter aparelhos
+    tags: appliances
+  - title: Integrar e habilitar
+    tags: enable
+  tiles:
+  - title: Saiba mais sobre o StorageGRID
+    icon: "./media/groups_line.png"
+    url: intro-family.html
+    summary: Saiba mais sobre o StorageGRID.
+    tags: all, get_started, storagegrid, appliances, enable
+  - title: Documentação do StorageGRID 11,8
+    icon: "./media/config_line.png"
+    url: "../storagegrid-118/index.html"
+    summary: Configurar e usar o software StorageGRID 11,8.
+    tags: all, storagegrid
+  - title: Dispositivos StorageGRID
+    icon: "./media/icon-onprem.png"
+    url: "../storagegrid-appliances/index.html"
+    summary: Instalar e manter dispositivos StorageGRID.
+    tags: all, appliances
+  - title: Ative o StorageGRID
+    icon: "./media/synergy.png"
+    url: "../storagegrid-enable/index.html"
+    summary: Teste, integre e habilite o StorageGRID.
+    tags: all, enable
