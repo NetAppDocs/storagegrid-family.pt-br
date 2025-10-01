@@ -56,11 +56,11 @@ As vantagens do sistema StorageGRID incluem:
 
 
 
-== Como ativar o StorageGRID no seu ambiente
+== Soluções e recursos do StorageGRID
 
- https://docs.netapp.com/us-en/storagegrid-enable/index.html["Como ativar o StorageGRID no seu ambiente"^]Acesse para saber como testar e ativar aplicativos em seu ambiente StorageGRID.
+Vá para https://docs.netapp.com/us-en/storagegrid-enable/index.html["Soluções e recursos do StorageGRID"^] para aprender como testar e habilitar aplicativos em seu ambiente StorageGRID .
 
-O site de documentação *StorageGRID-enable* fornece exemplos e livros de receitas que se expandem sobre a documentação do produto neste site, e descreve algumas próximas etapas na avaliação e integração com o StorageGRID.
+* Soluções e recursos do StorageGRID * fornecem exemplos e livros de receitas que expandem a documentação do produto neste site e descrevem algumas próximas etapas na avaliação e integração com o StorageGRID.
 
 Algumas das informações incluem:
 
